@@ -2,12 +2,12 @@ This is file1...welcome to Git...!!!
 
 <HTML>
 	<HEAD>
+		<H1>Welome to Git...</H1>
 	</HEAD>
 
-	<H1>Welome to Git...</H1>
 	<Body>This is Home Page	
-		List
-		Product
+	       List
+	       Product
 
 	</Body>
 
