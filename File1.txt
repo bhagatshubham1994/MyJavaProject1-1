@@ -7,8 +7,7 @@ This is file1...welcome to Git...!!!
 
 	<Body>This is Home Page	
 	       List
-	       Products
-	       Mobiles--> Apple,Samsung,Sony etc...
+	       Product is Mobiles
 
 	</Body>
 
